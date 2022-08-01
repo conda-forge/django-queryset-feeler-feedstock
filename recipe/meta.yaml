@@ -1,5 +1,5 @@
 {% set name = "django-queryset-feeler" %}
-{% set version = "0.0.3" %}
+{% set version = "0.0.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/django-queryset-feeler-{{ version }}.tar.gz
-  sha256: b225c6fc0ab26ec4673f6b457edb431b036528eaa50455610fe1e0696b804e87
+  sha256: cdb7cb1531badf4e17f88fe73a8c2213a3ca245295433aeed6f51a90ff831c7e
 
 build:
   noarch: python
