@@ -1,11 +1,11 @@
-About django-queryset-feeler
-============================
+About django-queryset-feeler-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-queryset-feeler-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lukas-schillinger/django-queryset-feeler
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-queryset-feeler-feedstock/blob/main/LICENSE.txt)
 
 Summary: tools to help understand how django querysets are executed
 
